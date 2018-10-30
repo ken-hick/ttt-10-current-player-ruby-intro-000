@@ -9,4 +9,3 @@ def turn_count ("X", "O", "X", "O", "X", "O", "X", "O", "X")
       counter += 1
     end
   end
-  
