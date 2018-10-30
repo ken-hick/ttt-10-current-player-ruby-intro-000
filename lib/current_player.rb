@@ -2,6 +2,7 @@
 # checks to see if valid input of X or O
 # increases turn count by 1
 
-def turn_count("X", "O", "X", "O", "X", "O", "X", "O", "X")
+def turn_count(x)
+
 
   end
