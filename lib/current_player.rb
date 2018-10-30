@@ -3,7 +3,7 @@
 # increases turn count by 1
 
 
-def turn_count (" ", " ", " ")
+def turn_count(" ", " ", " ")
   counter = 0
   turn_count.each do |turn|
     if turn == "X" || "O"
