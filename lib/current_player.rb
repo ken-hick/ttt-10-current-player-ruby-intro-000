@@ -1,7 +1,7 @@
 # turn_count method
 # checks to see if valid input of X or O
 # increases turn count by 1
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " "]
 
 def turn_count(board)
   counter = 0
