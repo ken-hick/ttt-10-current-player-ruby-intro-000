@@ -9,4 +9,3 @@ def turn_count(board)
     if turn == "X" || "O"
       counter += 1
     end
-  end
